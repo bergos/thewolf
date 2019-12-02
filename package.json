@@ -1,6 +1,6 @@
 {
   "name": "thewolf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "I solve problems",
   "main": "index.js",
   "bin": {
